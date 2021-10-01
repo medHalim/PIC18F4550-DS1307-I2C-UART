@@ -1,1 +1,3 @@
-# PIC18F4550-DS1307-I2C-UART
+# Real Time Clock Monitor Project 
+
+RTC Monitor in a 16x7 LCD using PIC18F4550 and DS1307.
