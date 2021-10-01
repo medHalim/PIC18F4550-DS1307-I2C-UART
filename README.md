@@ -9,3 +9,5 @@ The project consist of a transmitter PIC18F4550 and a receiver one. The Transmit
 The project was simulated in Proteus v8.10 SP3 and works fine but with a high CPU usage.
 
 ## Schematic
+
+![PIC18F4550-DS1307](https://user-images.githubusercontent.com/58752435/135696903-3bb9c3ff-931a-4fcd-ac92-4ef771a00a1f.jpg)
