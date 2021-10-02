@@ -1,2 +1,2 @@
-*.swig linguist-detectable=false
-static/* linguist-vendored
+# Example of a `.gitattributes` file which reclassifies `.css` files as JavaScript:
+.i linguist-language=C
