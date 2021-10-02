@@ -1,1 +1,2 @@
 *.swig linguist-detectable=false
+static/* linguist-vendored
