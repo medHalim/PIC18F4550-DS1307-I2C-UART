@@ -1,1 +1,3 @@
 *.i linguist-detectable=false
+*.mk linguist-detectable=false
+*.sh linguist-detectable=false
