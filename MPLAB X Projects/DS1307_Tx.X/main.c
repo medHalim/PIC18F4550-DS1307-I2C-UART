@@ -1,3 +1,10 @@
+/*
+ * main.c
+ *
+ * Created: 20/06/2021 
+ * Author: Halim
+ */ 
+
 #include "main.h"
 
 unsigned char i,j;
