@@ -1,6 +1,6 @@
 # Real Time Clock Monitor Project 
 
-DS1307 RTC interface on PIC18F4550 and communication via I2C and UART.
+Clock and Calendar monitor using PIC18F4550 and DS1307 RTC and communication via I2C and UART. 
 
 ## Project Overview
 
